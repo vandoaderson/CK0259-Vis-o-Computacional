@@ -1,1 +1,1 @@
-# CK0259-Vis-o-Computacional
+# CK0259-Visão-Computacional
